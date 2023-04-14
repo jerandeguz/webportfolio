@@ -1,0 +1,53 @@
+/* CSS Reset */
+
+*{
+	margin: 0;
+	padding: 0;
+	border-radius: border-box;
+}
+
+#jeranpng{
+	height: 450px;
+	width: 450px;
+	border: 100px;
+	border-radius: solid;
+	border-color: white;
+}
+
+#h1name{
+	font-size: 80px;
+}
+
+#csslogo{
+	height: 329.63px;
+}
+
+#projects{
+	text-align: center;
+}
+
+#landing{
+	background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b253f95-9dd4-4143-a8d8-cd7c00abdf40/dec6cl5-39908449-5bb9-4617-afb3-b57dd28659c1.png/v1/fill/w_1280,h_720,q_80,strp/dark_mountain_scenery_by_aomxart_dec6cl5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMmIyNTNmOTUtOWRkNC00MTQzLWE4ZDgtY2Q3YzAwYWJkZjQwXC9kZWM2Y2w1LTM5OTA4NDQ5LTViYjktNDYxNy1hZmIzLWI1N2RkMjg2NTljMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XpspwBSpJGMMk4Rs2de9H7LVbiJ3QWcgWOk-hICVOnE");
+	background-color: #000000;
+	background-size: 100%;
+}
+
+#def{
+	color: white;
+	font-weight: ;
+	background-color: #330000;
+	border-radius: 25px;
+	font-size: 2em;
+	padding: 1rem;
+	font-family: 'Tilt Prism', cursive;
+
+}
+
+body{
+	font-family: 'Chivo Mono', monospace;
+}
+
+#navbar{
+	position: sticky;
+	top: 0;
+}
